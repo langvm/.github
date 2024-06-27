@@ -14,4 +14,6 @@ From 2023 to present, LangVM exists as a series of compiler infrastrcture and ut
 
 Explore as many different approaches as possible instead of limiting yourself to just one design.
 
-[I hope](https://github.com/jellyterra) to learn more about existing research, and you may be my guide to the new worlds! 😉
+You may wanna tell me something via IM in [my profile](https://github.com/jellyterra) or email of LangVM.
+
+I hope to learn more about existing research, and you may be my guide to the new worlds! 😉
