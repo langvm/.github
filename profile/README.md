@@ -2,7 +2,7 @@
 
 ## Intro
 
-> From 2017 to 2019, LangVM aimed to be an alternative to JVM.
+> From 2018 to 2019, LangVM aimed to be an alternative to JVM.
 > Drops OOP designs that brings trouble in JVM.
 > Make functions, traits and modules pure.
 > Keeps designs about dynamic loaders for flexibility such as hot swap.
@@ -14,6 +14,6 @@ From 2023 to present, LangVM exists as a series of compiler infrastrcture and ut
 
 Explore as many different approaches as possible instead of limiting yourself to just one design.
 
-You may wanna tell me something via IM in [my profile](https://github.com/jellyterra) or email of LangVM.
-
 I hope to learn more about existing research, and you may be my guide to the new worlds! 😉
+
+You may wanna tell me something via IM in [my profile](https://github.com/jellyterra) or email of LangVM.
